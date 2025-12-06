@@ -20,22 +20,43 @@
 <!-- SKILLS -->
 ## 🧠 Tech Stack  
 
-### Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts" height="45"/>
+### 🔷 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts" height="45" />
 </p>
 
-### AI / ML  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45"/>
+### 🔶 Web Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs" height="45" />
 </p>
 
-### Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45"/>
+### 🔷 Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" />
 </p>
 
----
+### 🔶 AI / ML  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+</p>
+
+### 🔷 GenAI / LLM  
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" height="28"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge" height="28"/>
+</p>
+
+### 🔶 Developer Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
+</p>
 
 <!-- PROJECTS -->
 ## 📌 Featured AI Projects  
