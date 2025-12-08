@@ -67,7 +67,9 @@
 
 <!-- STATS -->
 ## 📊 GitHub Stats  
+
 <p align="center">
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yash-755&show_icons=true&theme=tokyonight" height="160"/>
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash-755&layout=compact&theme=tokyonight" height="160"/>
