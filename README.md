@@ -88,8 +88,6 @@
 - 💼 LinkedIn: www.linkedin.com/in/yash-uttam
 - 📧 Email: *ur731084@gmail.com*  
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/yash-755/yash-755/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
