@@ -75,10 +75,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash-755&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yash-755&theme=tokyonight" height="200"/>
-</p>
-
 
 
 ---
@@ -87,7 +83,3 @@
 ## 📫 Connect With Me  
 - 💼 LinkedIn: www.linkedin.com/in/yash-uttam
 - 📧 Email: *ur731084@gmail.com*  
-
-<p align="center">
-  <img src="https://github.com/yash-755/yash-755/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
