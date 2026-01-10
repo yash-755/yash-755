@@ -13,7 +13,7 @@
 ---
 
 <!-- ABOUT -->
-## 🚀 About Me  
+##  💫 About Me  
 - 🔭 Building **AI-powered tools & systems**  
 - 📚 Learning **Deep Learning, LLMs, NLP, MLOps**  
 - 🤖 Passion: Converting ideas → **Real AI Products**  
