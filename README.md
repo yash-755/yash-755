@@ -78,7 +78,7 @@
 </p>
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=yash-755&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=yash-775&theme=dark&hide_border=false)
 
 </div>
 
