@@ -1,9 +1,6 @@
 <!-- HEADER -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Uttam!;" />
-</h1>
-
+<h1 align="center">👋 Hi, I'm <span style="color:#8a2be2">Yash Uttam</span></h1>
 <h3 align="center">AI & Machine Learning Engineer • Building Intelligent Systems</h3>
 
 <p align="center">
