@@ -16,7 +16,7 @@
 - 🤖 Passion: Converting ideas → **Real AI Products**  
 - 🎯 Goal: Become a **Skilled AI/ML Engineer**  
 
----
+--- 
 
 <!-- SKILLS -->
 ## 🧠 Tech Stack  
