@@ -85,4 +85,4 @@
 ## 📫 Connect With Me  
 - 💼 LinkedIn: www.linkedin.com/in/yash-uttam
 - 📧 Email: *ur731084@gmail.com*  
-- 🔗 Portfolio:   *https://yashuttam.me*
+- 🔗 Portfolio: *https://yashuttam.me*
