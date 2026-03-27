@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Yash%20Uttam&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Engineer&descAlignY=65" />
 </p>
-
+<!--   <img src="https://komarev.com/ghpvc/?username=yash-755&label=Profile%20Views&color=blueviolet&style=flat" / -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Machine+Learning+Projects;Data+Driven+Problem+Solving" />
 </p>
@@ -16,7 +16,7 @@
 🔸 📊 Focused on data analysis and machine learning  
 🔹 🔍 Work with real-world datasets for insights and predictions  
 🔸 📈 Skilled in EDA, data visualization, and ML workflows  
-🔹 🧠 Learning through hands-on projects and continuous practice  
+🔹 🤖 Learning through hands-on projects and continuous practice  
 
 ---
 
