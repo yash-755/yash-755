@@ -59,9 +59,9 @@
 
 ## 📌 Projects  
 
-🔹 Data Analysis Projects – EDA, data cleaning, and insights extraction  
+🔸 Data Analysis Projects – EDA, data cleaning, and insights extraction  
 🔹 Machine Learning Projects – prediction and classification models  
-🔹 Real-world datasets – solving practical problems using data  
+🔸 Real-world datasets – solving practical problems using data  
 
 ---
 
