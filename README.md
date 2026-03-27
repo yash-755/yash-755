@@ -14,9 +14,10 @@
 
 🔹 🎓 Computer Science (AI & ML) student  
 🔸 📊 Focused on data analysis and machine learning  
-🔸 🔍 Work with real-world datasets for insights and predictions  
+🔹 🔍 Work with real-world datasets for insights and predictions  
 🔸 📈 Skilled in EDA, data visualization, and ML workflows  
-🔸 🧠 Learning through hands-on projects and continuous practice  
+🔹 🧠 Learning through hands-on projects and continuous practice  
+
 ---
 
 ## 🧠 Tech Stack  
