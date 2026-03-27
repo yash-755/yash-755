@@ -22,7 +22,6 @@
 
 ## 🧠 Tech Stack  
 
-
 <h3 align="center">📊 Data & Analytics</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" height="45"/>
