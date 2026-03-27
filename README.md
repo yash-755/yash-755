@@ -1,89 +1,116 @@
 <!-- HEADER -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#8a2be2">Yash Uttam</span></h1>
-<h3 align="center">AI & Machine Learning Engineer • Building Intelligent Systems</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Yash%20Uttam&fontSize=35&fontColor=ffffff&animation=fadeIn&desc=Data%20Analyst%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=65" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-755&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Turning+Data+Into+Insights;Machine+Learning+Projects;Data+Driven+Problem+Solving" />
 </p>
 
 ---
 
+## 👨‍💻 About Me  
 
-<!-- ABOUT -->
-##  💫 About Me  
-- 🔭 Building **AI-powered tools & systems**  
-- 📚 Learning **Deep Learning, LLMs, NLP, MLOps**  
-- 🤖 Passion: Converting ideas → **Real AI Products**  
-- 🎯 Goal: Become a **Skilled AI/ML Engineer**  
+- 🎓 Computer Science (AI & ML) student  
+- 📊 Focused on data analysis and machine learning  
+- 🔍 Work with real-world datasets for insights and predictions  
+- 📈 Skilled in EDA, data visualization, and ML workflows  
+- 🧠 Learning through hands-on projects and continuous practice  
+---
 
---- 
-
-<!-- SKILLS -->
 ## 🧠 Tech Stack  
 
-### 🔷 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts" height="45" />
+
+<h3 align="center">📊 Data & Analytics</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
 </p>
 
-### 🔶 Web Technologies  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs" height="45" />
+<h3 align="center">📈 Visualization</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="45"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="45"/>
 </p>
 
-### 🔷 Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" />
+<h3 align="center">🤖 Machine Learning</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
 </p>
 
-### 🔶 AI / ML  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="45" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="28"/>
+<h3 align="center">⚙️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.icons8.com/color/48/google-colab.png" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </p>
-
-### 🔷 GenAI / LLM  
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge" height="28"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=for-the-badge" height="28"/>
-</p>
-
-### 🔶 Developer Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="28"/>
-</p>
-
-<!-- PROJECTS -->
-## 📌 Featured AI Projects  
-> These will be added as pinned repositories soon.
 
 ---
 
-<!-- STATS -->
+## 📌 Projects  
+
+🔹 Data Analysis Projects – EDA, data cleaning, and insights extraction  
+🔹 Machine Learning Projects – prediction and classification models  
+🔹 Real-world datasets – solving practical problems using data  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yash-755&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash-755&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-755&theme=tokyonight&hide_border=true" width="48%" />
+  
+---
 
-</p>
+## 🤝 Connect With Me  
+
 <div align="center">
 
-![](https://nirzak-streak-stats.vercel.app/?user=yash-775&theme=dark&hide_border=false)
+<table>
+<tr>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/yash-uttam">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+<br/>
+<sub>LinkedIn</sub>
+</td>
+
+<td align="center" width="80">
+<a href="https://yashuttam.me">
+<img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
+</a>
+<br/>
+<sub>Portfolio</sub>
+</td>
+
+<td align="center">
+<a href="mailto:ur731084@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+<br/>
+<sub>Email</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
- 
-<!-- CONTACT -->
-## 📫 Connect With Me  
-- 💼 LinkedIn: www.linkedin.com/in/yash-uttam
-- 🔗 Portfolio: *https://yashuttam.me*
-- 📧 Email: *ur731084@gmail.com*  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+</p>
