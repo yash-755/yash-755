@@ -70,9 +70,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-755&theme=tokyonight&hide_border=true" width="48%" />
   <br/>
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yash-755&show_icons=true&theme=tokyonight" height="160"/>
+  
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yash-755&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yash-755&show_icons=true&theme=tokyonight" height="160"/>
   
 ---
 
