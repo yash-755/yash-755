@@ -14,12 +14,25 @@
 
 ## 👨‍💻 About Me  
 
-🔹 🎓 Computer Science (AI & ML) student  
-🔸 📊 Focused on data analysis and machine learning  
-🔹 🔍 Work with real-world datasets for insights and predictions  
-🔸 📈 Skilled in EDA, data visualization, and ML workflows  
-🔹 🤖 Learning through hands-on projects and continuous practice  
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="360"/>
 
+🔸🎓 &nbsp; **Computer Science (AI & ML) student** 
+
+🔹📊 &nbsp; **Focused on data analysis and machine learning** 
+
+🔸🛠️ &nbsp; **Using tools like SQL and Power BI for data insights**
+
+🔹📈 &nbsp; **Skilled in EDA, data visualization, and ML workflows**
+
+🔸🧩 &nbsp; **Enjoy solving analytical problems with structured thinking**
+
+🔹🌐 &nbsp; **Work with real-world datasets for insights and predictions**
+
+🔸🤖 &nbsp; **Learning through hands-on projects and continuous practice**
+
+🔹🚀 &nbsp; **Continuously improving skills by building and refining projects**
+
+🔸⚡ &nbsp; **Focused on improving accuracy and efficiency in data-driven solutions**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
