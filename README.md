@@ -105,7 +105,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-755&theme=tokyo-night&bg_color=09090b&color=a855f7&line=7c3aed&point=ec4899&area=true&hide_border=true" width="98%"/>
 </div>
 
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900"/>
