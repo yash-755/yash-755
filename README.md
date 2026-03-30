@@ -116,7 +116,6 @@
 ## 🤝 Connect With Me
 
 <div align="center">
-
 <table>
 <tr>
 
@@ -127,7 +126,7 @@
 <br/>
 <sub>LinkedIn</sub>
 </td>
-
+ 
 <td align="center" width="80">
 <a href="https://yashuttam.me">
 <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
