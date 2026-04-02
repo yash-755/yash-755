@@ -91,6 +91,10 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yash-755&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-755&theme=tokyonight&hide_border=true" width="48%" />
   <br/>
   
