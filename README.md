@@ -18,19 +18,13 @@
 
 🔸🎓 &nbsp; **B.Tech Computer Science (AI & ML) Student** 
 
-🔹📊 &nbsp; **Focused on data analysis and machine learning** 
-
 🔸🛠️ &nbsp; **Using tools like SQL and Power BI for data insights**
 
-🔹📈 &nbsp; **Skilled in EDA, data visualization, and ML workflows**
+🔹📊 &nbsp; **Skilled in EDA, data visualization, and ML workflows**
 
 🔸🧩 &nbsp; **Enjoy solving analytical problems with structured thinking**
 
-🔹🌐 &nbsp; **Work with real-world datasets for insights and predictions**
-
 🔸🤖 &nbsp; **Learning through hands-on projects and continuous practice**
-
-🔹🚀 &nbsp; **Continuously improving skills by building and refining projects**
 
 🔸⚡ &nbsp; **Focused on improving accuracy, efficiency in data-driven solutions**
 
