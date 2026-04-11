@@ -18,15 +18,15 @@
 
 🔸🎓 &nbsp; **B.Tech Computer Science (AI & ML) Student** 
 
-🔸🛠️ &nbsp; **Using tools like SQL and Power BI for data insights**
+🔹🛠️ &nbsp; **Using tools like SQL and Power BI for data insights**
 
-🔹📊 &nbsp; **Skilled in EDA, data visualization, and ML workflows**
+🔸📊 &nbsp; **Skilled in EDA, data visualization, and ML workflows**
 
-🔸🧩 &nbsp; **Enjoy solving analytical problems with structured thinking**
+🔹🧩 &nbsp; **Enjoy solving analytical problems with structured thinking**
 
 🔸🤖 &nbsp; **Learning through hands-on projects and continuous practice**
 
-🔸⚡ &nbsp; **Focused on improving accuracy, efficiency in data-driven solutions**
+🔹⚡ &nbsp; **Focused on improving accuracy, efficiency in data-driven solutions**
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
